@@ -1,4 +1,7 @@
 # jQueryCallbackMovieAPI
 just my personal learning
 
-Using Bootstrap and jQuery library.
+Using:
+  - Bootstrap 5
+  - OMDb API to IMDB
+  - jQuery
