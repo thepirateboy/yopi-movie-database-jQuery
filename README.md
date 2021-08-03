@@ -1,4 +1,4 @@
-# jQueryCallbackMovieAPI
+# Movie Database
 just my personal learning
 
 Using:
