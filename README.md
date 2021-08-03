@@ -3,5 +3,5 @@ just my personal learning
 
 Using:
   - Bootstrap 5
-  - OMDb API to IMDB
+  - OMDb API (for getting IMDB data)
   - jQuery 3
