@@ -6,4 +6,4 @@ Using:
   - OMDb API (for getting IMDB data)
   - jQuery 3
 
-[Demo here](#http://yopi-movie.yaeyx.com/)
+[Demo here](http://yopi-movie.yaeyx.com/)
