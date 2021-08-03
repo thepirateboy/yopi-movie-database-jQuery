@@ -1,4 +1,4 @@
-# yopi movie Database
+# yopi movie database
 just my personal learning
 
 Using:
